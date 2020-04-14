@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:sqflite2/database/database_model.dart';
-import 'package:sqflite2/dog/dog.dart';
 
-import 'database/madatabases.dart';
-import 'dog/cat.dart';
+
+import 'database/my_databases.dart';
+
+import 'models/dog.dart';
 
 void main() async {
   print('hhhhh');

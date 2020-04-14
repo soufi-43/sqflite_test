@@ -3,8 +3,9 @@
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import 'package:sqflite2/database/database_model.dart';
-import 'package:sqflite2/dog/cat.dart';
-import 'package:sqflite2/dog/dog.dart';
+import 'package:sqflite2/models/cat.dart';
+import 'package:sqflite2/models/dog.dart';
+
 
 
 class MyDatabase {
